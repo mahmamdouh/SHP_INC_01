@@ -1,5 +1,5 @@
 # SHP_INC_01
-Smart Home project - increment 01
+Smart Home project - increment 01 
 
 How this project is organized ?
 you will find this folders 
