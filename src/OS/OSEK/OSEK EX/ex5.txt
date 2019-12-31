@@ -1,0 +1,7 @@
+thier is many ways to protect shred resources for example 
+1- critecal sections ( by deactivate INT , before section and re activate it after section ) 
+2- semaphores that mean task cant access a specific resource that is holded or louck by an oter task use it 
+( but dead lock can happend ) 
+3- mutex is good way also but priority inversion is not nice effect 
+4- periority celling in the best way to do that its compination between this methods 
+OSEK support ( GetResource and ReleaseResource ) APIs . 
